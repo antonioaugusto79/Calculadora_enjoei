@@ -83,7 +83,7 @@ if st.button("Calcular"):
 
         parte_enjoei = valor - lucro
 
-        st.write(f"O enjei ficou com: {parte_enjoei:.2f}")
+        st.write(f"O enjoei ficou com: {parte_enjoei:.2f}")
 
 
 
