@@ -47,7 +47,7 @@ if st.button("Calcular"):
         else:
             tarifa_fixa = 50
 
-        lucro = valor - (valor * 0.12) - tarifa_fixa
+        lucro = valor - (valor * 0.18) - tarifa_fixa
 
         st.write(f"Seu lucro é de: {lucro:.2f}")
 
@@ -77,7 +77,7 @@ if st.button("Calcular"):
         else:
             tarifa_fixa = 40
 
-        lucro = valor - (valor * 0.18) - tarifa_fixa
+        lucro = valor - (valor * 0.12) - tarifa_fixa
 
         st.write(f"Seu lucro é de: {lucro:.2f}")
 
