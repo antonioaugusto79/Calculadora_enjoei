@@ -1,0 +1,1 @@
+A Calculadora de Lucro Enjoei é uma ferramenta simples e intuitiva que permite aos usuários inserir o preço de venda de um item e o custo de aquisição (ou de produção) do mesmo. Com base nesses dados e nas taxas da plataforma Enjoei, a aplicação calcula automaticamente o lucro líquido que o vendedor terá.
